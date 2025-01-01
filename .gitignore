@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+/my-app
 
 # testing
 /coverage
@@ -43,3 +44,5 @@ next-env.d.ts
 
 notion-clone
 notion-clone.pub
+.env.local
+service_key.json
